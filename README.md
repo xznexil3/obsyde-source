@@ -1,2 +1,1 @@
-# obsyde-source
-Internal Software for Dota2
+# crimson-test-source
